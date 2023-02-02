@@ -1,6 +1,6 @@
-# Instagram Bootstrap
+# Bootstrap Instagram
 
-- Project Name: 'Instagram_Bootstrap';
+- Project Name: 'Bootstrap_Instagram';
 - Status: Concluded;
 - Languages: Html / CSS;
 - Softwares/Work Tools: V.S. Code;
