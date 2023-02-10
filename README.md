@@ -13,5 +13,5 @@
 
 - PrintScreen: 
 <div>
-  <img align="center" height="400" widht="400" src="/Print/Screen.jpg" />
+  <img align="center" height="600" widht="600" src="/Print/Screen.jpg" />
 </div><br>
